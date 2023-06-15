@@ -1,4 +1,4 @@
-<div style="margin: 0 auto;">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&size_weight=0.5&count_weight=0.5)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&size_weight=0.5&count_weight=0.5)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcarthon)](https://github.com/mcarthon/github-readme-stats)
