@@ -27,7 +27,5 @@ I'm passionate about coding and building awesome projects. Check out my reposito
 
 Let's connect and collaborate! Feel free to reach out to me via email or through my social media profiles.
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mcarthon/)
 
