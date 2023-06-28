@@ -9,19 +9,19 @@ I'm passionate about coding and building awesome projects. Check out my reposito
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcarthon&show_icons=true&theme=radical)
 
 ## My Top Languages
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&layout=compact&theme=radical)
 
 ## My Trophies
 
-![My Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=juicyfresh)
+![My Trophies](https://github-profile-trophy.vercel.app/?username=mcarthon&theme=juicyfresh)
 
 ## My Contribution Graph
 
-![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mcarthon&theme=github)
 
 ## Contact Me
 
