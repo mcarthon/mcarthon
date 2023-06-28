@@ -22,9 +22,9 @@ I'm passionate about coding and building awesome projects. Check out my reposito
 
 Let's connect and collaborate! Feel free to reach out to me via email or through my social media profiles.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mcarthon/)
+- LinkedIn: [Mark Carthon](https://www.linkedin.com/in/mcarthon/)
 
 <!-- Replace the GIF URLs with your own -->
 ![Coding GIF 1](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
-![Coding GIF 2](https://media.giphy.com/media/your-gif-url-2/giphy.gif)
+![Coding GIF 2](https://media.giphy.com/media/llQQNGj14IaXrzCFul/giphy.gif)
 ![Coding GIF 3](https://media.giphy.com/media/your-gif-url-3/giphy.gif)
