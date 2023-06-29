@@ -1,13 +1,15 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mcarthon&show_icons=true&theme=radical">
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&layout=compact&theme=radical&langs_count=20">
-</div>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=mcarthon&theme=juicyfresh">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcarthon&show_icons=true&theme=dark&show_icons=true&&hide=issues,contribs">
 </div>
 
+<br>
+
 <div>
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" autoplay>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&layout=normal&width=1600&theme=dark&langs_count=20&hide=jupyter%20notebook,r">
+</div>
+
+<br>
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=mcarthon&theme=matrix&hide=issues,reviews&rank=-?&row=3&column=3">
 </div>
