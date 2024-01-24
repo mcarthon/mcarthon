@@ -13,7 +13,7 @@ Currently, I am on the road to 200 Leetcode problems solved. My current progress
 I graduated from:
 <ul>
   <li> <a href="https://uwm.edu/math/graduate/programs/ms-program/standard-mathematics-statistics/"> University of Wisconsin - Mathematics and NLP </a> </li>
-  <li> <a href="https://www.codingdojo.com/software-development-full-time"> Coding Dojo - Full-Stack Web Dev </a> </li>
+  <li> <a href="https://www.codingdojo.com/software-development-full-time"> Coding Dojo - Full-Stack Web Development </a> </li>
   <li> <a href="https://nycdatascience.com/data-science-bootcamp/#what-you-will-learn"> NYC DSA - Data Analytics and Machine Learning </a> </li>
 </ul>
 
