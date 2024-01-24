@@ -18,5 +18,5 @@ I graduated from:
 Feel free to delve into my repositories to see the things I have been working on 🚀.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&size_weight=1&count_weight=0&layout=normal&width=1600&theme=dark&langs_count=10&hide=jupyter%20notebook,r&custom_title=My%20Top%20Programming%20Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&size_weight=1&count_weight=0&layout=normal&width=1600&theme=dark&langs_count=10&hide=jupyter%20notebook,r&custom_title=Programming%20Languages">
 </div>
