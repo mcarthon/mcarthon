@@ -2,6 +2,13 @@
 
 👋 Hello! I'm fueled by a genuine passion for unraveling the intricacies of data structures and algorithms. Each day, I commit to crafting one or two LeetCode solutions, relishing the sense of achievement and the opportunity to enhance my coding efficiency.
 
+I graduated from:
+<ul>
+  <li> <a href="https://uwm.edu/math/graduate/programs/ms-program/standard-mathematics-statistics/"> University of Wisconsin </a> </li>
+  <li> <a href="https://www.codingdojo.com/software-development-full-time"> Coding Dojo </a> </li>
+  <li> <a href="https://nycdatascience.com/data-science-bootcamp/#what-you-will-learn"> NYC DSA </a> </li>
+</ul>
+
 Feel free to delve into my repositories, and don't hesitate to reach out for collaboration or engaging discussions. Let's unite our innovative minds and create something extraordinary! 🚀
 
 <div>
