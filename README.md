@@ -4,7 +4,7 @@
 
 I'm fueled by a genuine passion for unraveling the intricacies of data structures and algorithms. 
 
-Each day, I commit to crafting one or two LeetCode solutions, relishing the sense of achievement and the opportunity to enhance my coding efficiency.
+Each day, I commit to crafting at least one or two LeetCode solutions, relishing the sense of achievement and the opportunity to enhance my coding efficiency.
 
 Follow me on <a href="https://www.linkedin.com/in/markcarthon/"> LinkedIn </a> for weekly posts aimed at helping developers who are getting their feet wet in data structures and algorithms.
 
