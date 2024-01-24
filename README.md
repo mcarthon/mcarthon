@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hi there! I am truly passionate about data structures and algorithms. I strive to code up at least Leetcode solutions every day of the week. Solving Leetcode problems gives me a true sense of accomplishment and helps me to write more efficient code.
+👋 Hi there! I am truly passionate about data structures and algorithms. I strive to code up at least one or two Leetcode solutions every single day of the week. Solving Leetcode problems gives me a true sense of accomplishment and helps me to write more efficient code.
 
 Feel free to explore my repositories and reach out for collaboration or discussion. Let's innovate and create together! 🚀
 
