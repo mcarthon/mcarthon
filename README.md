@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile
 
+![Banner](https://github.com/mcarthon/mcarthon/blob/main/Lawyers%20LinkedIn%20Cover%20Image%20with%20Portrait.png)
+
 👋 Hello! 
 
 I'm fueled by a genuine passion for unraveling the intricacies of data structures and algorithms. 
