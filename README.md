@@ -8,7 +8,7 @@ I'm fueled by a genuine passion for unraveling the intricacies of data structure
 
 I am committed to crafting LeetCode solutions as time permits, relishing the sense of achievement and the opportunity to enhance my coding efficiency.
 
-Follow me on <a href="https://www.linkedin.com/in/markcarthon/"> LinkedIn </a> for weekly posts aimed at helping developers who are getting their feet wet in data structures and algorithms.
+Follow me on <a href="https://www.linkedin.com/in/markcarthon/"> LinkedIn </a> for posts aimed at helping developers who are getting their feet wet in data structures and algorithms.
 
 Currently, I am on the road to 200 Leetcode problems solved. My current progress is <a href="https://leetcode.com/MarkCarthon/"> here </a>.
 
