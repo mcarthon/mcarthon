@@ -9,7 +9,7 @@ I'm a professional Software Engineer with **7+ years** of backend and full-stack
 - 🧠 I specialize in building **mission-critical**, **profit-generating systems**
 - 🧰 Language-agnostic & tool-agnostic — I use what solves the problem best
 - 👥 I thrive in **positive** and **supportive** engineering cultures that prioritise **humility**, **honesty**, **transparency**, **mutual respect**, **clear communication**, and **realistic expectations**
-- 🧼 I believe in **well-commented code** and **proactive tech debt management**
+- 🧼 I believe in maintaining **clear documentation**, **well-commented code** and **proactive tech debt management**
 
 ---
 
