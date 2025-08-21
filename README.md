@@ -1,4 +1,4 @@
-# Welcome to Mark's GitHub Code Factory 🏭
+# Welcome to Mark's LeetCode Factory 🏭
 
 ![Banner](https://github.com/mcarthon/mcarthon/blob/main/Lawyers%20LinkedIn%20Cover%20Image%20with%20Portrait.png)
 
