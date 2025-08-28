@@ -35,7 +35,6 @@ I'm a professional Software Engineer with **7+ years** of backend and full-stack
 - 🧮 [LeetCode](https://leetcode.com/u/MarkCarthon/)
 
 ---
-
 ### 🥊 Fun Facts About Me
 
 - 🏋️ Weightlifter & fitness enthusiast  
@@ -43,5 +42,7 @@ I'm a professional Software Engineer with **7+ years** of backend and full-stack
 - ⚽ Loyal FC Bayern supporter - Mia San Mia
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact)
 
 Send me a message on LinkedIn for any career oppurtunities. Thanks for stopping by. 🚀
