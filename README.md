@@ -43,6 +43,6 @@ I'm a professional Software Engineer with **7+ years** of backend and full-stack
 
 ---
 
-/*![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&layout=compact)*/
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarthon&layout=compact)-->
 
 Send me a message on LinkedIn for any career oppurtunities. Thanks for stopping by. 🚀
